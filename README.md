@@ -3,7 +3,7 @@ The Toponum is the package which evaluates the topological numbers for materials
 
 # Done
  1. Exploit symmetry+TR in terms of PWs (QE, VASP)
- 2. NC,USPP (QE)
+ 2. NC,USPP,PAW (QE)
  3. Parallelization (QE, VASP)
  4. Z2, Z, MZ, Z4 (QE, VASP)
  
